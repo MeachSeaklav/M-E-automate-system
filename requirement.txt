@@ -29,7 +29,8 @@ debugpy==1.8.1
 decorator==5.1.1
 defusedxml==0.7.1
 distro==1.9.0
-docx2pdf==0.1.8
+
+python-docx==1.1.2
 et-xmlfile==1.1.0
 executing==2.0.1
 fastjsonschema==2.19.1
